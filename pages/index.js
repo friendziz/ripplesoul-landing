@@ -67,7 +67,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer>
+      <footer className={styles.footer}>
         <p>Made with 💙 by Francis Tonacao | <a href="https://ripplesoul.com">ripplesoul.com</a></p>
       </footer>
     </div>

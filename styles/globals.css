@@ -3,3 +3,9 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #333;
+}
