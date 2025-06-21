@@ -1,0 +1,80 @@
+.container {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 900px;
+  color: #333;
+  background: linear-gradient(135deg, #c6b0e7, #e5d8f2, #ffd8b5);
+}
+
+.logo {
+  max-width: 120px;
+  display: block;
+  margin: 20px auto;
+}
+
+.subheadline {
+  font-size: 1.2em;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #444;
+}
+
+.features h2 {
+  text-align: center;
+  color: #6A1B9A;
+}
+
+.features ul {
+  list-style: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+.features li {
+  margin: 10px 0;
+  font-size: 1.1em;
+}
+
+.notionCard {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  margin-top: 40px;
+}
+
+.notionCard h2 {
+  margin-top: 0;
+  font-size: 1.8em;
+  color: #6A1B9A;
+}
+
+.notionCard h3 {
+  margin-top: 2em;
+  font-size: 1.4em;
+  color: #8E24AA;
+}
+
+.notionCard ul {
+  padding-left: 20px;
+}
+
+.notionCard ul li {
+  margin-bottom: 0.7em;
+}
+
+.quoteBlock {
+  margin-top: 2em;
+  padding: 20px;
+  background: #f3e5f5;
+  border-left: 4px solid #8E24AA;
+  font-style: italic;
+  color: #555;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #333;
+}
